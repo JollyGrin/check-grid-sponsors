@@ -11,3 +11,7 @@ Goal: check the solana breakpoint cms for new sponsors, and compare that with `c
 1. Get most recent constants file from: https://github.com/solana-foundation/solana-com-breakpoint/blob/main/components/SponsorModal/constants-grid.ts
 1. Paste into the `constants-grid.js` file in this repo
 1. Run `node check-sponsors-standalone.js`
+
+Outputs:
+1. table in the terminal
+2. csv output
