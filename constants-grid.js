@@ -7,7 +7,7 @@
  *
  * */
 
-module.exports = {
+const GRID_SLUGS = {
   // Phantom: "Phantom",
   // BONK: "Bonk Rewards",
   Solflare: "Solflare",
@@ -103,3 +103,4 @@ module.exports = {
   Altitude: null, // TBD
   Blockzero: null, //Can't yet confirm this one? Need offical URL
 };
+module.exports = GRID_SLUGS;
