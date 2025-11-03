@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/4672a13f-007f-4078-9052-e4b4e6776f08
+
+
+
 Goal: check the solana breakpoint cms for new sponsors, and compare that with `constants-grid.js` to see if any are missing in the constants file.
 
 1. `cp .env.example .env`
